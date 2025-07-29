@@ -1,22 +1,22 @@
 # Transportation Cost And Delivery Analysis
 
 ## Project Overview
-This project analyzes transportation cost and delivery time across two main segment:
+This project analyzes transportation cost and delivery time using supply chain data from a fashion and beuty startup. It focuses on the flow of goods across two main segment:
 
 1. From manufacturer to supplier distribution centre
 2. From supplier distribution centre to customers
 
-An interactive Power BI dashboard help monitors and break down the transportation cost spending, determine the cost patterns and highlighted areas of improvement.
+An interactive Power BI dashboard help monitors and break down the transportation cost spending, determine the cost patterns, delivery performance and highlighted areas of improvement.
 
 ## Objectives
 
 - Identify total transportation cost by transportation mode and routes.
 
-- Determine the most frequent transportation mode used to deliveries to distribution centres.
+- Determine the most frequently transportation mode used for deliveries to distribution centres.
 
 - Compare the cost and delivery lead time of each transportation mode.
 
-- Compare the average shipping cost and delivery time to the customers.
+- Compare the average shipping cost and delivery time to customers.
 
 ## Data Source
  
@@ -64,9 +64,9 @@ View the Transportaion Cost and Delivery Analysis here: [*Dashboard*](https://gi
 
 Insights: 
 
-- The total cost of transportation  to distribution centre is Rupees 52.92k, with an average of Rupees 529.25 per shipment.
+- The total cost of transportation to distribution centre is Rupees 52.92k, with an average of Rupees 529.25 per shipment.
 
-- Road is the most commonly used transportation mode, contributing 30.32% of total cost, followed by train at 28.66%. Due to geographical factors and infrastructural lanscape of India, these two modes serve as the main transports for economic activities.
+- Road is the most commonly used transportation mode, contributing 30.32% of total cost to distribution centres, followed by train at 28.66%. Due to geographical factors and infrastructural lanscape of India, these two modes serve as the main transports for economic activities.
 
 - The average delivery lead time to distribution centre is 16 days and around 18 days for air freight. Customs clearance, security checks and complexity of procedure using air freight are likely caused for longer delivery period.
 
