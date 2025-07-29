@@ -60,7 +60,7 @@ Click [*here*](https://github.com/azerinnan/EDA_supplychain) to view the project
 
 ![Transportation Cost and Delivery Analysis Dashboard](1_cost_delivery_dashboard.png)
 
-View the Transportaion Cost and Delivery Analysis here: [*Dashboard*](https://github.com/azerinnan/Transportation_cost_and_delivery_analysis/blob/main/transportation_cost_and_delivery_analysis.pbix)
+View the Transportation Cost and Delivery Analysis here: [*Dashboard*](https://github.com/azerinnan/Transportation_cost_and_delivery_analysis/blob/main/transportation_cost_and_delivery_analysis.pbix)
 
 Insights: 
 
