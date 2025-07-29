@@ -1,7 +1,7 @@
 # Transportation Cost And Delivery Analysis
 
 ## Project Overview
-This project analyzes transportation cost and delivery time using supply chain data from a fashion and beuty startup. It focuses on the flow of goods across two main segment:
+This project analyzes transportation cost and delivery time using supply chain data from a fashion and beauty startup. It focuses on the flow of goods across two main segment:
 
 1. From manufacturer to supplier distribution centre
 2. From supplier distribution centre to customers
