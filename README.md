@@ -1,7 +1,7 @@
 # Transportation Cost And Delivery Analysis
 
 ## Project Overview
-This project analyzes transportation cost across two main segment:
+This project analyzes transportation cost and delivery time across two main segment:
 
 1. From manufacturer to supplier distribution centre
 2. From supplier distribution centre to customers
