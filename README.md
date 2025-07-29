@@ -79,7 +79,7 @@ Insights:
 - In Mumbai, although the delivery cost to customers are similar across carriers, Carrier A is preferable for faster delivery.
 
 
-### Recommendations
+## Recommendations
 
 1. Adopt Multimodal Transports strategies
  
