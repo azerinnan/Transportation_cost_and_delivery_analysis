@@ -24,7 +24,7 @@ An interactive Power BI dashboard help monitors and break down the transportatio
 - Source: Kaggle
 - Data Format: CSV
 - Raw Data Download Link: [*Supply Chain Data (Kaggle)*](https://www.kaggle.com/datasets/harshsingh2209/supply-chain-analysis/data) 
-- Cleaned Data Download: [*Supply Chain Cleaned Data*]( )
+- Cleaned Data Download: [*Supply Chain Cleaned Data*](https://github.com/azerinnan/Transportation_cost_and_delivery_analysis/blob/main/supplychain_cleaned_data.csv)
 
 The original data is cleaned and formated in a previous project.
 Click [*here*](https://github.com/azerinnan/EDA_supplychain) to view the project.
@@ -60,7 +60,7 @@ Click [*here*](https://github.com/azerinnan/EDA_supplychain) to view the project
 
 ![Transportation Cost and Delivery Analysis Dashboard](1_cost_delivery_dashboard.png)
 
-View the Transportaion Cost Analysis here: [*Transportation Cost and Delivery Analysis Dashboard*](https://github.com/azerinnan/Transportation_cost_and_delivery_analysis/blob/main/transportation_cost_and_delivery_analysis.pbix)
+View the Transportaion Cost and Delivery Analysis here: [*Dashboard*](https://github.com/azerinnan/Transportation_cost_and_delivery_analysis/blob/main/transportation_cost_and_delivery_analysis.pbix)
 
 Insights: 
 
