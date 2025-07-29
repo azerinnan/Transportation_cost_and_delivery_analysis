@@ -45,7 +45,7 @@ Click [*here*](https://github.com/azerinnan/EDA_supplychain) to view the project
 
 - **Line and Clustered Column  – Cost Distribution and Transportation Mode Usage**
 
-	Visualizes total per transportation mode and the frequency of usage for each mode.
+	Visualizes percentage of total cost per transportation mode and the frequency of usage for each mode.
 
 - **Pivot table – Transportation Mode vs Route**
 	
